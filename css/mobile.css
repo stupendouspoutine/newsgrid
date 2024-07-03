@@ -34,6 +34,10 @@
     grid-template-columns: 1fr;
    }
 
+   #main-nav ul {
+    padding-left: 165px;
+   }
+
    #home-articles .articles-container,
    #footer .grid-container,
    .page-container {
